@@ -5,7 +5,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 <template>
   <div class="wrapped">
     <HelloWorld />
-    <p>This is Todo List App.</p>
+    <p class="text-3xl font-bold underline">This is Todo List App.</p>
   </div>
 </template>
 
